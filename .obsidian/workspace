@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "未命名.md",
+            "file": "Appium/2. Appium Advanced Tutorial/显示等待.md",
             "mode": "source",
             "source": false
           }
@@ -49,13 +49,11 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 159,
-    "collapsed": true
+    "width": 159
   },
   "right": {
     "id": "6d2e563b0aba3a20",
@@ -71,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "未命名.md",
+                "file": "Appium/2. Appium Advanced Tutorial/显示等待.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,7 +86,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "未命名.md"
+                "file": "Appium/2. Appium Advanced Tutorial/显示等待.md"
               }
             }
           }
@@ -101,8 +99,8 @@
   },
   "active": "e9a2e49d7cb90579",
   "lastOpenFiles": [
-    "未命名.md",
     "Appium/2. Appium Advanced Tutorial/显示等待.md",
+    "未命名.md",
     "Appium/2. Appium Advanced Tutorial/toast识别.md",
     "Appium/2. Appium Advanced Tutorial/xpath定位.md",
     "README.md"
