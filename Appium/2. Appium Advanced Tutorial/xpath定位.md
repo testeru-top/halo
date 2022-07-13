@@ -33,6 +33,11 @@
 
 
 #### 当前节点的子节点
+```
+//*[@resource-id="com.xueqiu.android:id/stock_layout"]/child::*
+
+```
+
 ## 爷孙-parent
 #### 当前节点的爷爷
 - 当前节点的父级的父级
@@ -43,6 +48,9 @@
 ```
 ![](https://cdn.jsdelivr.net/gh/testeru-top/images/tester/202207121647574.png)
 #### 当前节点的孙子
+```
+//*[@resource-id="com.xueqiu.android:id/stock_layout"]/child::*/child::*
+```
 ## 祖先-ancestor
  - `ancestor` 用于在指定层查找特定成员的祖先的函数。
  - 可以显式指定要返回的祖先级别或祖先相对于成员级别的级别。它从祖先返回分层步骤数，定位用户想要的指定祖先。
