@@ -4,9 +4,8 @@
     "type": "split",
     "children": [
       {
-        "id": "87abab2c7e4ad9da",
+        "id": "e9a2e49d7cb90579",
         "type": "leaf",
-        "dimension": 86.05299860529986,
         "state": {
           "type": "markdown",
           "state": {
@@ -14,20 +13,7 @@
             "mode": "source",
             "source": false
           }
-        },
-        "group": "c263973d65e13347"
-      },
-      {
-        "id": "f363db40ef28bbcd",
-        "type": "leaf",
-        "dimension": 13.947001394700141,
-        "state": {
-          "type": "outline",
-          "state": {
-            "file": "Appium/2. Appium Advanced Tutorial/xpath定位.md"
-          }
-        },
-        "group": "c263973d65e13347"
+        }
       }
     ],
     "direction": "vertical"
@@ -67,8 +53,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 159,
-    "collapsed": true
+    "width": 159
   },
   "right": {
     "id": "6d2e563b0aba3a20",
@@ -112,9 +97,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "87abab2c7e4ad9da",
+  "active": "e9a2e49d7cb90579",
   "lastOpenFiles": [
     "Appium/2. Appium Advanced Tutorial/xpath定位.md",
+    "Appium/2. Appium Advanced Tutorial/toast识别.md",
     "README.md"
   ]
 }
