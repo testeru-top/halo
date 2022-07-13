@@ -8,11 +8,17 @@
 ## 定位
 - appium 用的是uiautomator底层来抓取toast，然后再把toast放到控件树内，但是它本身不属于空间。
 - 使用的是uiautomator2
-- 通过getPageSource无法找到
-- xpath可以找到
+
+- `xpath` 可以找到
 ```
 //*[@class="android.widget.Toast"]
 
 //*[contains(@text,"xxx")]
 ```
 xxx：toast的文本内容
+
+
+```java
+driver.manage().timeouts().implicitlyWait(Duration.ofSeconds(50));  
+driver.findElement(AppiumBy.xpath("//*[@class=\"android.widget.Toast\"]"));
+```
