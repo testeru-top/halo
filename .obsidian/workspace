@@ -6,12 +6,24 @@
       {
         "id": "e9a2e49d7cb90579",
         "type": "leaf",
+        "dimension": 87.42928975487115,
         "state": {
           "type": "markdown",
           "state": {
             "file": "Appium/2. Appium Advanced Tutorial/显示等待.md",
             "mode": "source",
             "source": false
+          }
+        }
+      },
+      {
+        "id": "8ee6536249e1134c",
+        "type": "leaf",
+        "dimension": 12.570710245128849,
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "Appium/2. Appium Advanced Tutorial/显示等待.md"
           }
         }
       }
@@ -97,7 +109,7 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "a3379879271ece9b",
+  "active": "e9a2e49d7cb90579",
   "lastOpenFiles": [
     "Appium/2. Appium Advanced Tutorial/xpath定位.md",
     "Appium/2. Appium Advanced Tutorial/toast识别.md",
