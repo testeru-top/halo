@@ -4,26 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "e9a2e49d7cb90579",
+        "id": "bd446004839f6c53",
         "type": "leaf",
-        "dimension": 87.42928975487115,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Appium/2. Appium Advanced Tutorial/显示等待.md",
+            "file": "Appium/2. Appium Advanced Tutorial/Actions.md",
             "mode": "source",
             "source": false
-          }
-        }
-      },
-      {
-        "id": "8ee6536249e1134c",
-        "type": "leaf",
-        "dimension": 12.570710245128849,
-        "state": {
-          "type": "outline",
-          "state": {
-            "file": "Appium/2. Appium Advanced Tutorial/显示等待.md"
           }
         }
       }
@@ -81,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Appium/2. Appium Advanced Tutorial/显示等待.md",
+                "file": "Appium/2. Appium Advanced Tutorial/Actions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,7 +86,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Appium/2. Appium Advanced Tutorial/显示等待.md"
+                "file": "Appium/2. Appium Advanced Tutorial/Actions.md"
               }
             }
           }
@@ -109,11 +97,11 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "e9a2e49d7cb90579",
+  "active": "bd446004839f6c53",
   "lastOpenFiles": [
-    "Appium/2. Appium Advanced Tutorial/xpath定位.md",
-    "Appium/2. Appium Advanced Tutorial/toast识别.md",
-    "Appium/2. Appium Advanced Tutorial/显示等待.md",
+    "Appium/1. Appium Basic Tutorial/显示等待.md",
+    "Appium/1. Appium Basic Tutorial/toast识别.md",
+    "Appium/1. Appium Basic Tutorial/xpath定位.md",
     "未命名.md",
     "README.md"
   ]
