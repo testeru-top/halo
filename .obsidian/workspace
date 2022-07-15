@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Appium/2. Appium Advanced Tutorial/使用 Appium 自动化手势测试.md",
+            "file": "Appium/1. Appium Basic Tutorial/显示等待.md",
             "mode": "source",
             "source": false
           }
@@ -53,7 +53,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 159
+    "width": 241
   },
   "right": {
     "id": "6d2e563b0aba3a20",
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Appium/2. Appium Advanced Tutorial/使用 Appium 自动化手势测试.md",
+                "file": "Appium/1. Appium Basic Tutorial/显示等待.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,7 +86,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Appium/2. Appium Advanced Tutorial/使用 Appium 自动化手势测试.md"
+                "file": "Appium/1. Appium Basic Tutorial/显示等待.md"
               }
             }
           }
@@ -99,9 +99,10 @@
   },
   "active": "bd446004839f6c53",
   "lastOpenFiles": [
+    "Appium/2. Appium Advanced Tutorial/Actions.md",
     "Appium/1. Appium Basic Tutorial/显示等待.md",
-    "Appium/1. Appium Basic Tutorial/toast识别.md",
     "Appium/1. Appium Basic Tutorial/xpath定位.md",
+    "Appium/1. Appium Basic Tutorial/toast识别.md",
     "未命名.md",
     "README.md"
   ]
